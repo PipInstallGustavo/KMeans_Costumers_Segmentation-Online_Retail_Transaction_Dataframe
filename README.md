@@ -10,6 +10,8 @@
 
 <p><b>(*) For this project we'll only use the data between 2010-2011, though.</b></p>
 
+<p>The dataset can be found here: <a href='https://archive.ics.uci.edu/dataset/502/online+retail+ii'>https://archive.ics.uci.edu/dataset/502/online+retail+ii </p>
+
 
 ## Steps
 
